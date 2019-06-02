@@ -1,0 +1,5931 @@
+fileFormatVersion: 2
+guid: ab8257a73bfa0d36cb1bfcd5f161c7c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4970331540340677733
+    second: Rambo_0
+  - first:
+      213: -7152554546928572436
+    second: Rambo_1
+  - first:
+      213: 1070779813357580679
+    second: Rambo_2
+  - first:
+      213: 5340203959938977637
+    second: Rambo_3
+  - first:
+      213: -773127599869527227
+    second: Rambo_4
+  - first:
+      213: 3356994385336655260
+    second: Rambo_5
+  - first:
+      213: 7279387449401853532
+    second: Rambo_6
+  - first:
+      213: -4257871585975947151
+    second: Rambo_7
+  - first:
+      213: -5571479880245774735
+    second: Rambo_8
+  - first:
+      213: -7819043697810787638
+    second: Rambo_9
+  - first:
+      213: 6393865120874180925
+    second: Rambo_10
+  - first:
+      213: -2910109784225843341
+    second: Rambo_11
+  - first:
+      213: 1562265061716846676
+    second: Rambo_12
+  - first:
+      213: 3831076569668360426
+    second: Rambo_13
+  - first:
+      213: 7269763837302666009
+    second: Rambo_14
+  - first:
+      213: 5010550484781769489
+    second: Rambo_15
+  - first:
+      213: 8121246869771650563
+    second: Rambo_16
+  - first:
+      213: 7846077147237349179
+    second: Rambo_17
+  - first:
+      213: -3742482336073273713
+    second: Rambo_18
+  - first:
+      213: -5275478808680453540
+    second: Rambo_19
+  - first:
+      213: -7930752672335168266
+    second: Rambo_20
+  - first:
+      213: 3466644532405051248
+    second: Rambo_21
+  - first:
+      213: 379921092103109079
+    second: Rambo_22
+  - first:
+      213: 4986498324953703967
+    second: Rambo_23
+  - first:
+      213: -3600764559997139412
+    second: Rambo_24
+  - first:
+      213: -5151903644266177515
+    second: Rambo_25
+  - first:
+      213: -6469157895007030551
+    second: Rambo_26
+  - first:
+      213: -7922062428184469132
+    second: Rambo_27
+  - first:
+      213: 4612717649158060179
+    second: Rambo_28
+  - first:
+      213: -1496706258530742406
+    second: Rambo_29
+  - first:
+      213: -6957715166325863349
+    second: Rambo_30
+  - first:
+      213: -1818314351219320348
+    second: Rambo_31
+  - first:
+      213: 8913613156323868325
+    second: Rambo_32
+  - first:
+      213: -4479914740137587479
+    second: Rambo_33
+  - first:
+      213: -1552677293219383291
+    second: Rambo_34
+  - first:
+      213: -6025621193042448719
+    second: Rambo_35
+  - first:
+      213: -1882429772340742143
+    second: Rambo_36
+  - first:
+      213: 8016346661781099283
+    second: Rambo_37
+  - first:
+      213: -1910010126055543974
+    second: Rambo_38
+  - first:
+      213: 4126651456033893375
+    second: Rambo_39
+  - first:
+      213: -2617148622017845905
+    second: Rambo_40
+  - first:
+      213: -6258572249854280823
+    second: Rambo_41
+  - first:
+      213: 757406676025555979
+    second: Rambo_42
+  - first:
+      213: -3597485017688562096
+    second: Rambo_43
+  - first:
+      213: 3552745745331924300
+    second: Rambo_44
+  - first:
+      213: -3244759584632597076
+    second: Rambo_45
+  - first:
+      213: -9137548851812075391
+    second: Rambo_46
+  - first:
+      213: 6232699296731060411
+    second: Rambo_47
+  - first:
+      213: 4424971619344328898
+    second: Rambo_48
+  - first:
+      213: -1907522480706661060
+    second: Rambo_49
+  - first:
+      213: -5807752483804777453
+    second: Rambo_50
+  - first:
+      213: -3805517978255280446
+    second: Rambo_51
+  - first:
+      213: -416421801393953626
+    second: Rambo_52
+  - first:
+      213: -5568762000860948562
+    second: Rambo_53
+  - first:
+      213: -1752510748086605567
+    second: Rambo_54
+  - first:
+      213: 1904911195551901258
+    second: Rambo_55
+  - first:
+      213: 3152281566883618015
+    second: Rambo_56
+  - first:
+      213: 1762986131219081449
+    second: Rambo_57
+  - first:
+      213: 5725563312388733096
+    second: Rambo_58
+  - first:
+      213: 3496434517873776273
+    second: Rambo_59
+  - first:
+      213: 4681517762949529458
+    second: Rambo_60
+  - first:
+      213: -3498074363912744043
+    second: Rambo_61
+  - first:
+      213: 4991520818115952890
+    second: Rambo_62
+  - first:
+      213: 8199603028145322829
+    second: Rambo_63
+  - first:
+      213: 1398700295030724165
+    second: Rambo_64
+  - first:
+      213: -4541686468447815586
+    second: Rambo_65
+  - first:
+      213: 3912793928293429967
+    second: Rambo_66
+  - first:
+      213: -3697594513073700094
+    second: Rambo_67
+  - first:
+      213: -4463786606759116056
+    second: Rambo_68
+  - first:
+      213: 5018673940297469610
+    second: Rambo_69
+  - first:
+      213: 909465255165858668
+    second: Rambo_70
+  - first:
+      213: 565539091081083922
+    second: Rambo_71
+  - first:
+      213: 447948158768169977
+    second: Rambo_72
+  - first:
+      213: 6465294053588077666
+    second: Rambo_73
+  - first:
+      213: 5611501158513683956
+    second: Rambo_74
+  - first:
+      213: -59351626819454331
+    second: Rambo_75
+  - first:
+      213: 5421565846827422228
+    second: Rambo_76
+  - first:
+      213: 9016903316859402055
+    second: Rambo_77
+  - first:
+      213: -5111315696865338262
+    second: Rambo_78
+  - first:
+      213: 3420711968943880801
+    second: Rambo_79
+  - first:
+      213: 2179925928195580925
+    second: Rambo_80
+  - first:
+      213: 4006498920790202694
+    second: Rambo_81
+  - first:
+      213: 1715656526777149486
+    second: Rambo_82
+  - first:
+      213: 8287146052581443263
+    second: Rambo_83
+  - first:
+      213: 3839085496961749634
+    second: Rambo_84
+  - first:
+      213: 6261785100578883995
+    second: Rambo_85
+  - first:
+      213: -6435080992831675091
+    second: Rambo_86
+  - first:
+      213: 6300042677611384156
+    second: Rambo_87
+  - first:
+      213: -3770582780323726181
+    second: Rambo_88
+  - first:
+      213: 7068322500125594075
+    second: Rambo_89
+  - first:
+      213: 2932068053159386226
+    second: Rambo_90
+  - first:
+      213: 58142892829712969
+    second: Rambo_91
+  - first:
+      213: 208379645276631141
+    second: Rambo_92
+  - first:
+      213: -8769843165413569281
+    second: Rambo_93
+  - first:
+      213: -4729139970884357285
+    second: Rambo_94
+  - first:
+      213: 2732294495959553063
+    second: Rambo_95
+  - first:
+      213: -6451862520161794694
+    second: Rambo_96
+  - first:
+      213: 3838546250056421050
+    second: Rambo_97
+  - first:
+      213: 3217653442248740889
+    second: Rambo_98
+  - first:
+      213: -1199138873102000503
+    second: Rambo_99
+  - first:
+      213: -157053792017864807
+    second: Rambo_100
+  - first:
+      213: 8312635840687574655
+    second: Rambo_101
+  - first:
+      213: -8524929926358681176
+    second: Rambo_102
+  - first:
+      213: -7394359264930506618
+    second: Rambo_103
+  - first:
+      213: -1652591138420402764
+    second: Rambo_104
+  - first:
+      213: -8190512667151107726
+    second: Rambo_105
+  - first:
+      213: -7378088111328722826
+    second: Rambo_106
+  - first:
+      213: -1657501677695479222
+    second: Rambo_107
+  - first:
+      213: -9035206258474394401
+    second: Rambo_108
+  - first:
+      213: 4444290294871941480
+    second: Rambo_109
+  - first:
+      213: 2847979058945613688
+    second: Rambo_110
+  - first:
+      213: -5353471355856155181
+    second: Rambo_111
+  - first:
+      213: -496065232298584373
+    second: Rambo_112
+  - first:
+      213: -1686975824875174275
+    second: Rambo_113
+  - first:
+      213: -8948685919492060804
+    second: Rambo_114
+  - first:
+      213: -3720841708013028739
+    second: Rambo_115
+  - first:
+      213: -2635299837360996276
+    second: Rambo_116
+  - first:
+      213: 2756709133532494204
+    second: Rambo_117
+  - first:
+      213: 5574676541678998013
+    second: Rambo_118
+  - first:
+      213: 2975963705478658573
+    second: Rambo_119
+  - first:
+      213: -7901125052341125957
+    second: Rambo_120
+  - first:
+      213: 1916680170883788238
+    second: Rambo_121
+  - first:
+      213: -205714023014074855
+    second: Rambo_122
+  - first:
+      213: -3805808953076914606
+    second: Rambo_123
+  - first:
+      213: -5824024102608627383
+    second: Rambo_124
+  - first:
+      213: 4113571603415899137
+    second: Rambo_125
+  - first:
+      213: 6759360881214228484
+    second: Rambo_126
+  - first:
+      213: -8627296245377011601
+    second: Rambo_127
+  - first:
+      213: -9169852156188067822
+    second: Rambo_128
+  - first:
+      213: -183093754566498880
+    second: Rambo_129
+  - first:
+      213: 3845274160776582546
+    second: Rambo_130
+  - first:
+      213: -7462237983286931904
+    second: Rambo_131
+  - first:
+      213: 2708104253930402246
+    second: Rambo_132
+  - first:
+      213: -2705885023575334663
+    second: Rambo_133
+  - first:
+      213: 473143129156066693
+    second: Rambo_134
+  - first:
+      213: 1442331086100945291
+    second: Rambo_135
+  - first:
+      213: 1632492983594027476
+    second: Rambo_136
+  - first:
+      213: -8197590631822808985
+    second: Rambo_137
+  - first:
+      213: 451216488458286295
+    second: Rambo_138
+  - first:
+      213: 5758544874248352582
+    second: Rambo_139
+  - first:
+      213: 7602648834166776288
+    second: Rambo_140
+  - first:
+      213: -462087318574217190
+    second: Rambo_141
+  - first:
+      213: -6990271732058088030
+    second: Rambo_142
+  - first:
+      213: 4539305746291649885
+    second: Rambo_143
+  - first:
+      213: 5121928410207395651
+    second: Rambo_144
+  - first:
+      213: 4804928387335582324
+    second: Rambo_145
+  - first:
+      213: 3640805508224087040
+    second: Rambo_146
+  - first:
+      213: -711379904959388431
+    second: Rambo_147
+  - first:
+      213: -7020666805395395572
+    second: Rambo_148
+  - first:
+      213: -5891630798465133537
+    second: Rambo_149
+  - first:
+      213: 7604311683722715995
+    second: Rambo_150
+  - first:
+      213: -8852731689482007781
+    second: Rambo_151
+  - first:
+      213: 1545049055436808525
+    second: Rambo_152
+  - first:
+      213: -3538071755787372482
+    second: Rambo_153
+  - first:
+      213: -3311976685350015232
+    second: Rambo_154
+  - first:
+      213: 688870493141121817
+    second: Rambo_155
+  - first:
+      213: -7192560749777575457
+    second: Rambo_156
+  - first:
+      213: -1357237619379072306
+    second: Rambo_157
+  - first:
+      213: -7769402645032227951
+    second: Rambo_158
+  - first:
+      213: 2747845221504386711
+    second: Rambo_159
+  - first:
+      213: -5142465002960712924
+    second: Rambo_160
+  - first:
+      213: 7423907628855720978
+    second: Rambo_161
+  - first:
+      213: 7203247916961547546
+    second: Rambo_162
+  - first:
+      213: -3417307350353734853
+    second: Rambo_163
+  - first:
+      213: -8279328721514463860
+    second: Rambo_164
+  - first:
+      213: 6367195793787204829
+    second: Rambo_165
+  - first:
+      213: 8693672499355253989
+    second: Rambo_166
+  - first:
+      213: -7103286447365965793
+    second: Rambo_167
+  - first:
+      213: 3101508323839525026
+    second: Rambo_168
+  - first:
+      213: 6294499316232849076
+    second: Rambo_169
+  - first:
+      213: -3913720955212659098
+    second: Rambo_170
+  - first:
+      213: -8096894592659535064
+    second: Rambo_171
+  - first:
+      213: -8909733494178882722
+    second: Rambo_172
+  - first:
+      213: -135353777991717785
+    second: Rambo_173
+  - first:
+      213: -6835210980140932265
+    second: Rambo_174
+  - first:
+      213: -806525982428873676
+    second: Rambo_175
+  - first:
+      213: -323990041393208174
+    second: Rambo_176
+  - first:
+      213: 2709136262277659064
+    second: Rambo_177
+  - first:
+      213: -364814488377692495
+    second: Rambo_178
+  - first:
+      213: 2939133691916479458
+    second: Rambo_179
+  - first:
+      213: 9202423215355801006
+    second: Rambo_180
+  - first:
+      213: -8068898990211625469
+    second: Rambo_181
+  - first:
+      213: 8919680370569892115
+    second: Rambo_182
+  - first:
+      213: 7864845643945871713
+    second: Rambo_183
+  - first:
+      213: 3756957110450754573
+    second: Rambo_184
+  - first:
+      213: -6032243265159446931
+    second: Rambo_185
+  - first:
+      213: -8800321700977472771
+    second: Rambo_186
+  - first:
+      213: 6757640979830379298
+    second: Rambo_187
+  - first:
+      213: 1822139526096339598
+    second: Rambo_188
+  - first:
+      213: -9161355827573731748
+    second: Rambo_189
+  - first:
+      213: 6200663696644238684
+    second: Rambo_190
+  - first:
+      213: 855001702470216190
+    second: Rambo_191
+  - first:
+      213: -1366573323016964303
+    second: Rambo_192
+  - first:
+      213: 8996511014093818644
+    second: Rambo_193
+  - first:
+      213: -4679933080803193517
+    second: Rambo_194
+  - first:
+      213: -786992904911714267
+    second: Rambo_195
+  - first:
+      213: -8384234498787211577
+    second: Rambo_196
+  - first:
+      213: -3666038148676667215
+    second: Rambo_197
+  - first:
+      213: -8799481141484495152
+    second: Rambo_198
+  - first:
+      213: 8195827711080700766
+    second: Rambo_199
+  - first:
+      213: 4659788269430580426
+    second: Rambo_200
+  - first:
+      213: 1911323390569613400
+    second: Rambo_201
+  - first:
+      213: 4540165426955975181
+    second: Rambo_202
+  - first:
+      213: 3582341556736626851
+    second: Rambo_203
+  - first:
+      213: 8048595773009655726
+    second: Rambo_204
+  - first:
+      213: -1012514975370007027
+    second: Rambo_205
+  - first:
+      213: 1539994057823981932
+    second: Rambo_206
+  - first:
+      213: -6781966746810601540
+    second: Rambo_207
+  - first:
+      213: -4293454601992014274
+    second: Rambo_208
+  - first:
+      213: 5839396737410358232
+    second: Rambo_209
+  - first:
+      213: -2055185696051791539
+    second: Rambo_210
+  - first:
+      213: 7739445366104570280
+    second: Rambo_211
+  - first:
+      213: -4313008685380666043
+    second: Rambo_212
+  - first:
+      213: 1911818770400161490
+    second: Rambo_213
+  - first:
+      213: -1827567431470952005
+    second: Rambo_214
+  - first:
+      213: 3875333645475034710
+    second: Rambo_215
+  - first:
+      213: -838279711300599484
+    second: Rambo_216
+  - first:
+      213: -4376011276573298762
+    second: Rambo_217
+  - first:
+      213: -5071090334418288912
+    second: Rambo_218
+  - first:
+      213: -6361753971327520809
+    second: Rambo_219
+  - first:
+      213: 3060376341168425832
+    second: Rambo_220
+  - first:
+      213: -4818000819361246848
+    second: Rambo_221
+  - first:
+      213: -4417024592745603400
+    second: Rambo_222
+  - first:
+      213: -783508650622111326
+    second: Rambo_223
+  - first:
+      213: 7742927903685924884
+    second: Rambo_224
+  - first:
+      213: -3380748706122145243
+    second: Rambo_225
+  - first:
+      213: -2000329995199226233
+    second: Rambo_226
+  - first:
+      213: 5084305808535714754
+    second: Rambo_227
+  - first:
+      213: -93808698228833256
+    second: Rambo_228
+  - first:
+      213: -4957308621127900697
+    second: Rambo_229
+  - first:
+      213: -1864909971673221218
+    second: Rambo_230
+  - first:
+      213: 6021223791676033889
+    second: Rambo_231
+  - first:
+      213: -3626799543555915087
+    second: Rambo_232
+  - first:
+      213: 6306743599647778353
+    second: Rambo_233
+  - first:
+      213: -4233760519165053841
+    second: Rambo_234
+  - first:
+      213: 3874696519716361139
+    second: Rambo_235
+  - first:
+      213: -8660252471586460484
+    second: Rambo_236
+  - first:
+      213: -1879120889701618398
+    second: Rambo_237
+  - first:
+      213: -5340323179422806801
+    second: Rambo_238
+  - first:
+      213: -5980970133007336960
+    second: Rambo_239
+  - first:
+      213: -3733046174914182849
+    second: Rambo_240
+  - first:
+      213: -3910995609797750238
+    second: Rambo_241
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rambo_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710ad35c5e6d817a8796fff872f4ebb
+      internalID: 4970331540340677733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 483
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a6b83323d35224a8505964001bb5f
+      internalID: -7152554546928572436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 484
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca0fa8743409d4c3b7f1af2379f7b20
+      internalID: 1070779813357580679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 484
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea24e42077e1abe0cbc668e2eb477439
+      internalID: 5340203959938977637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 482
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0c63e6fcfbfd39b293002380f9488
+      internalID: -773127599869527227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 484
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98acdb0e59f229e9982885d34712821
+      internalID: 3356994385336655260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 484
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd4fcf51322e200bf0ab69baa20849
+      internalID: 7279387449401853532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 484
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf10cecc97792dd6802cab9a249cee0
+      internalID: -4257871585975947151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e46c10caee7f165fbccd4ca8d05a66c
+      internalID: -5571479880245774735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3870275e9edd73844a8cdda8775a5ae1
+      internalID: -7819043697810787638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fe9b6037b0bd9a82da49f94e57fac
+      internalID: 6393865120874180925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f6c4659eb5d5e4aaa0821e0d50d519
+      internalID: -2910109784225843341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 448
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b857d54aaf0fb700587d7a1a4653da8d
+      internalID: 1562265061716846676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2f3179fec30384395d0b7d49cd7066
+      internalID: 3831076569668360426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1a8e63b18497af90cdd6fc21466ea
+      internalID: 7269763837302666009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e777c2091d5e6b39082137b83ed40871
+      internalID: 5010550484781769489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef54e4eac6b850c39b5ca3d09bf656c
+      internalID: 8121246869771650563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7fb80028ff0650eba47a4b1cdac55c
+      internalID: 7846077147237349179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc853a91fceba890a7b7d61e5225c63
+      internalID: -3742482336073273713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b20a001838ba7c3a4486c622c40a37
+      internalID: -5275478808680453540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 448
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7199527c33a579edaba217c1fe22a6b
+      internalID: -7930752672335168266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1239ec8074db6ec45be3dfe1dfe4f89b
+      internalID: 3466644532405051248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 448
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67594a5c00401dcb9bb882b474cd3188
+      internalID: 379921092103109079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617edf96d2f183d50b424425b5b33a44
+      internalID: 4986498324953703967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a0e2c88f0cbf5ba1ceac264e5a817
+      internalID: -3600764559997139412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d61a6bb34fed902b9c1235eb5da707
+      internalID: -5151903644266177515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 408
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be3f0dc2047e8338954dbe649abcc8c
+      internalID: -6469157895007030551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 410
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c28c71528cec31939bf8b0068e451
+      internalID: -7922062428184469132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 412
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4cb9f795f3d3724b74e3345d7b1222
+      internalID: 4612717649158060179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 408
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c234c3385e3653d409a838cfac51333d
+      internalID: -1496706258530742406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 411
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a90772b34e7bb45e89ac84b0576a5ff
+      internalID: -6957715166325863349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 408
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035a65f1826caa73827bbba380e7f78
+      internalID: -1818314351219320348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 411
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6912a0209fc309399b8a5949c981917
+      internalID: 8913613156323868325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 408
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff88c14317b0966b9efb0bf27ff9260
+      internalID: -4479914740137587479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 409
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f6b930a286050ed99af04418c149d0
+      internalID: -1552677293219383291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 408
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11abca5d6b98ed6b1b990af805ced722
+      internalID: -6025621193042448719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 408
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a1b295ee1060d98c728b558400569
+      internalID: -1882429772340742143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 408
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530dfc98fd06889539b34a11e8166c70
+      internalID: 8016346661781099283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 408
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375f70f37f5beaee9d97aad55d595ee
+      internalID: -1910010126055543974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290594ec02c53459bee892ba8ebf069
+      internalID: 4126651456033893375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_40
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 408
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8392f9ad5c5b040229c7ed55d436eceb
+      internalID: -2617148622017845905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b4b3d9abb20f8ba9aec6e11563573d
+      internalID: -6258572249854280823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e235492da67cdaa8f7484d5fc193ea
+      internalID: 757406676025555979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccc713a783b0153082ef92c2909724a
+      internalID: -3597485017688562096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715b49ba514779069921c43c1c8afca
+      internalID: 3552745745331924300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 376
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550f9df4565171cf8aa13a1cc24f149b
+      internalID: -3244759584632597076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900ea993266626d7cb34bc4add32d921
+      internalID: -9137548851812075391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2319ecf6ab26d293ae4cfc6a2b04879
+      internalID: 6232699296731060411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9200432b4698e003a94fee8f0ed5893
+      internalID: 4424971619344328898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f72fa1888ecee57a01abaa956d8ddb
+      internalID: -1907522480706661060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e29543df828cd0b8e3d877d744c9c0
+      internalID: -5807752483804777453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_51
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fa41f231a98dbeabace3a28cadbd4
+      internalID: -3805517978255280446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 376
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea0dbeaa200ab1baf63dddfa11aad7
+      internalID: -416421801393953626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 376
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe82631b6b6cc80ea7f02e4c60ba236
+      internalID: -5568762000860948562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 376
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fd8346f5774cf0e8a6616403b19807
+      internalID: -1752510748086605567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 376
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e0fe2d3f5edbef0b4ac0b0abe64633
+      internalID: 1904911195551901258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a025992f6f1d88cbce096ea6f5196f
+      internalID: 3152281566883618015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf89ff334e9f8fc920d6994d47b75e
+      internalID: 1762986131219081449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_58
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471710ddb9eceeae8b8466b14d245852
+      internalID: 5725563312388733096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd19d3f73f8fdf6cb925d6401059494
+      internalID: 3496434517873776273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 336
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb754275a4e071eebba50e0eb3bfcd0
+      internalID: 4681517762949529458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_61
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb3c045118af3233bda441166eb6616
+      internalID: -3498074363912744043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042908451e7c03b9188cd2fac06ccebf
+      internalID: 4991520818115952890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95eaba8fc8cb6bea7301776a3415ae
+      internalID: 8199603028145322829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7be337cde26162890b3790742717f
+      internalID: 1398700295030724165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d347f9c67fe09e6928036a4060a48e
+      internalID: -4541686468447815586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e3ce6d60607c84abd15ca604c4702d
+      internalID: 3912793928293429967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e157da56b98ba25198b54475d2879cfb
+      internalID: -3697594513073700094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe2c1bc877c61fbb0e38486d8ef707
+      internalID: -4463786606759116056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_69
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c166d65413244194a83fd8fede805
+      internalID: 5018673940297469610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_70
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 336
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c3f7884d802a4ddb224aecfcc5bf8e
+      internalID: 909465255165858668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba41993d4f43d52868862b4e9a7408
+      internalID: 565539091081083922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_72
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 336
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2333cbb9bdb56448f17f0b7f8824d0
+      internalID: 447948158768169977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_73
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd01c82f5c8ed0bfbeadd8b32c81c1a
+      internalID: 6465294053588077666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 336
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ce41833a16b5ccaef9409298d44d3
+      internalID: 5611501158513683956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_75
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 336
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14acceacda63effb0a709906923c20b7
+      internalID: -59351626819454331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b017dbdfb5199e9d0b113f9b9d6c5
+      internalID: 5421565846827422228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836e9ae015b667a3cb2ece3dd7a2d63e
+      internalID: 9016903316859402055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 336
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0884b2aae3511b26bfae5f92204ae51
+      internalID: -5111315696865338262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e481313e1c732bc8de878d1bd44df9
+      internalID: 3420711968943880801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4233e6e43dbda524998435d570f37d06
+      internalID: 2179925928195580925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27df1f595b1f0bc1a79ddc0afebb25d
+      internalID: 4006498920790202694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 336
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f58c247dfd8a47caac6cc7278ad89fa
+      internalID: 1715656526777149486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399db8fbafe8d3c2bac12d864dfb7f10
+      internalID: 8287146052581443263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 314
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b150e691bbd022a6c418dbabc1a46
+      internalID: 3839085496961749634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_85
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 314
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76245903c17ef4f8ae97aa8480e130e
+      internalID: 6261785100578883995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_86
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 316
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d4ef84f9d598f489adf69f13035369
+      internalID: -6435080992831675091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 316
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a81c297d6879249fc24ea556d9c19
+      internalID: 6300042677611384156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_88
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 299
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023e7877db87829cbcc50a279cc1a5f
+      internalID: -3770582780323726181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_89
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 316
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e26cc794bc1b2df8f97d6d6f439ed2
+      internalID: 7068322500125594075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f00310603464ac3c8da7e6522d6dc23
+      internalID: 2932068053159386226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_91
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 317
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fb12ac3d7cbb5d5ab9b5eb1b556a7e
+      internalID: 58142892829712969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_92
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 315
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a53ab02a3be43b2a8fd4d94c900a0c9
+      internalID: 208379645276631141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_93
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 315
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893ced6d326d01e99bd8ce0cf43a02c
+      internalID: -8769843165413569281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 315
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d362ece72b0b442abbaec0713c4df9
+      internalID: -4729139970884357285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_95
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 315
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb45e065962701acbea968fdd60c91c
+      internalID: 2732294495959553063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 296
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b54e6b8ec9e5c31489bc66aab9e7e78
+      internalID: -6451862520161794694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_97
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 296
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f3d5e77e22ae247a51f8185d69d993
+      internalID: 3838546250056421050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70dcaea252224db0bc3f9448c121619
+      internalID: 3217653442248740889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_99
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 314
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c16895e45fa75fdad2db8435a2a40d
+      internalID: -1199138873102000503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 297
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb149bbccf3bb959870ca3ca5d95bb
+      internalID: -157053792017864807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8d5f059c7c0b01bda5323e6ae4b74
+      internalID: 8312635840687574655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_102
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 298
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bda64a143faecc88399235954ee23b
+      internalID: -8524929926358681176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207fa614594718ade9b0925ce0331e10
+      internalID: -7394359264930506618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_104
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 296
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d605271a7df1d6c5896b2b4daa5a534
+      internalID: -1652591138420402764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_105
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 299
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faff67c7677e5053297c275232e7c64b
+      internalID: -8190512667151107726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 296
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846c2f7242080566a311f6dd32fbb10
+      internalID: -7378088111328722826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_107
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 297
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deafad1d35a0983aade2a66951d658b
+      internalID: -1657501677695479222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_108
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e17fe8d88e9be562a0e55418e7278a1
+      internalID: -9035206258474394401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_109
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 296
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d1449ba7bc26084af7d8b3a57a6181
+      internalID: 4444290294871941480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_110
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 296
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165332184270c871eaa2ca746f97d2ae
+      internalID: 2847979058945613688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_111
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1dd327bad4ff500aae4232b35c742a
+      internalID: -5353471355856155181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_112
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ac96e364a4401ccafc775c464a5895
+      internalID: -496065232298584373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_113
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305fdc9260cd87aca826b01bbc659d5c
+      internalID: -1686975824875174275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_114
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96caf38b02ae6f8e9a9f9568a7fffa6
+      internalID: -8948685919492060804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_115
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 264
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52046f324180e5ca8ab03c53d447e9c
+      internalID: -3720841708013028739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_116
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41de86d840b5a71c9abe9ec0cebcad3
+      internalID: -2635299837360996276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc380d97a8f517a388f06c91ff0264c
+      internalID: 2756709133532494204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_118
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06335812652b80109760bb809ce97f5
+      internalID: 5574676541678998013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_119
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a4b1edaa4c2f793adb67f913fdbff0
+      internalID: 2975963705478658573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_120
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e25bb020c636a088756d024b60501f
+      internalID: -7901125052341125957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_121
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a06352b4d27243a3a880d02f21690
+      internalID: 1916680170883788238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_122
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 264
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02ea5f501a795b83a14d5e1725754e1
+      internalID: -205714023014074855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_123
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b7869257de46d1a6c8e2261361371
+      internalID: -3805808953076914606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_124
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 264
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63aeacbee70afc1e9317487356e2f4e
+      internalID: -5824024102608627383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_125
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 264
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c9e8d285b2781e59f0c11ab15afa2d
+      internalID: 4113571603415899137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 264
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ecb9b82e9ee9353a02bb21218d39db
+      internalID: 6759360881214228484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_127
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 264
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bfc28e24ec95c429548278d6e4854a
+      internalID: -8627296245377011601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_128
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b12b29574889afa18b4c6da1860a0
+      internalID: -9169852156188067822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_129
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3acbc22bb95e7c89a3597fe66c0a9c
+      internalID: -183093754566498880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 264
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974ac00234791be3b0d405bb03e85a7
+      internalID: 3845274160776582546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_131
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 264
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dccf82cc494680bba507b9522bd862
+      internalID: -7462237983286931904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417c7d8e63ce934c881d78dd7cc40d69
+      internalID: 2708104253930402246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_133
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 264
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66d960c90aca3bc7bb40d82e9c827c3
+      internalID: -2705885023575334663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_134
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 264
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7f622b719015fa9b66275057c0ccda
+      internalID: 473143129156066693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 264
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b1d82f9b1fef05b7fa39930fe8545
+      internalID: 1442331086100945291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_136
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b2d91fa45e9d68bbf2218cdc1e1ab5
+      internalID: 1632492983594027476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_137
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 253
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2c734f2266ca0bbff4f35183df070
+      internalID: -8197590631822808985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_138
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 253
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e14b5a887ca5c9f9af7a861dfbd411
+      internalID: 451216488458286295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_139
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 251
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfbc041b3c502e52a6240904a3abc57
+      internalID: 5758544874248352582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_140
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 253
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb4b44098e06d8578409c079ff57385
+      internalID: 7602648834166776288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_141
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 253
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1ff7603f5153eee8bd2e6dc7e98c43
+      internalID: -462087318574217190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_142
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 253
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7101cdc9bf0d1b8fb981eb41c5caab3
+      internalID: -6990271732058088030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_143
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 253
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231f5aef89946ad92a78d4ad7a5d4a7b
+      internalID: 4539305746291649885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_144
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 253
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e89566ad1ec19cc8d18df7d36f04ee
+      internalID: 5121928410207395651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c43c448076ffa66a32475db26dc6c3
+      internalID: 4804928387335582324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945e292643904c3f9bd69d787ae2e5dd
+      internalID: 3640805508224087040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_147
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 216
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0231827710d4bf28d07b7b50620bb9
+      internalID: -711379904959388431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1451a277bb0c9b09c6216b9d4f88ca
+      internalID: -7020666805395395572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_149
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22621c2cdf75b096b3f2e5bf67f72e5
+      internalID: -5891630798465133537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdcb91e3c50beadba622387d0a3fc91
+      internalID: 7604311683722715995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_151
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 216
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da96062cc64144a1992dad4b3d62dd2
+      internalID: -8852731689482007781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952b01f3154e9c19894be05b73cab0b0
+      internalID: 1545049055436808525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5755331be64c60f62a3186fac287459f
+      internalID: -3538071755787372482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8207e2d8098b9b8a9c63846e3dec4e3
+      internalID: -3311976685350015232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_155
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b6554d04b61d38c90294cf6b70535a
+      internalID: 688870493141121817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_156
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 216
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d274adb46d4c2df8548376926fd3a6
+      internalID: -7192560749777575457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_157
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 216
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b0f980d1527d7c8571c8d30c58cd5
+      internalID: -1357237619379072306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_158
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17685f15e41a6eebb8ec85d67efaf627
+      internalID: -7769402645032227951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_159
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9645f80a543340bbbf0bfad396fa0a
+      internalID: 2747845221504386711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_160
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 216
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a99c8a4ce9121190ac5a3660c161e
+      internalID: -5142465002960712924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_161
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 216
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0323880a7d1ee2d7b8e99a2a808142d4
+      internalID: 7423907628855720978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_162
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 177
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2abcdcab36d6f6a8ab574840beeec52
+      internalID: 7203247916961547546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded2a8c69496ddc71a5e73e09313edc5
+      internalID: -3417307350353734853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_164
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 178
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a960162402606fe8dc9a74b7b635ae
+      internalID: -8279328721514463860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa60dfb9794318788839d17b7d80a00
+      internalID: 6367195793787204829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_166
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 176
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78eb1c370631aed3a844066dcadbc26
+      internalID: 8693672499355253989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_167
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 179
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6807187c986b652a697b21b4b369e2
+      internalID: -7103286447365965793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_168
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffff4db23f3bec9cea824676aeb07b8f
+      internalID: 3101508323839525026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_169
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 179
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40830147e5c4df8c7b82e9e855a863ec
+      internalID: 6294499316232849076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_170
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b531b3f0f7ea91d933e066b29701c1
+      internalID: -3913720955212659098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_171
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 177
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5069e7db2a0d247dc8387c0ce13618f5
+      internalID: -8096894592659535064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558160617fd1007d8bb332b21143eef7
+      internalID: -8909733494178882722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_173
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 176
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f4c095a7e043e8fb81afcbd8dfab2b
+      internalID: -135353777991717785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_174
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d895f98e401c97a2abdfcbc3810cfea
+      internalID: -6835210980140932265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_175
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 176
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf1aeb83e073bccc92b61974e458a73
+      internalID: -806525982428873676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ad46ce93b970bb79a5f477e2f25320
+      internalID: -323990041393208174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_177
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 176
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ba48cf14231f4882538249694469e
+      internalID: 2709136262277659064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_178
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 146
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dc0347c2c25d2acab3c9af71a08713
+      internalID: -364814488377692495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d1d3cec23e68c4b53033d775b9e22
+      internalID: 2939133691916479458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_180
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 147
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8483ef6cf332a6d9812d648efe704be
+      internalID: 9202423215355801006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef044f89fcdbe0f5e8ab682be6599da5
+      internalID: -8068898990211625469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_182
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd0106374fada4ca3690dc68dedeb5
+      internalID: 8919680370569892115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58810fdb42a141029890686a20143329
+      internalID: 7864845643945871713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_184
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 145
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f75a3fa80dbf7f2fa33329b85e4011b
+      internalID: 3756957110450754573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_185
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 145
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45208eccc317dae1d8387bebd8876ed8
+      internalID: -6032243265159446931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_186
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 145
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13091085481c476aac86676f6f4f8c
+      internalID: -8800321700977472771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 145
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628fa68473651f035b79cf00ad290df6
+      internalID: 6757640979830379298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_188
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 145
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccf4607b1c5e9ac28d3d3e2d5c3095c
+      internalID: 1822139526096339598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_189
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 145
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa25429a72c30aa59f211d6e3487292
+      internalID: -9161355827573731748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_190
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 146
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3dc829cc3c8262b9925a2c58346b7d
+      internalID: 6200663696644238684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_191
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 145
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1315328f0a70342b0b508ac146acdc
+      internalID: 855001702470216190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_192
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7eb76ee610c91487b7cc940ac3b20
+      internalID: -1366573323016964303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_193
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2dd4690e1d32f87982dfe26a42282b
+      internalID: 8996511014093818644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8032aa48e44f9bdc9671ec12b6c5efb
+      internalID: -4679933080803193517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_195
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fa894e4ef0105ce84d342d2e842034
+      internalID: -786992904911714267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_196
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63d7c26dfe847fa9bed953682fcd423
+      internalID: -8384234498787211577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_197
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63d4e6efe554569bae648c6184e249
+      internalID: -3666038148676667215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964f1d3934afc2cdd90d0c32bc24845c
+      internalID: -8799481141484495152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_199
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b49629d23393626b95e4074a29add0c
+      internalID: 8195827711080700766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_200
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae13bd2d22e7335da9fb7331d292ce1
+      internalID: 4659788269430580426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_201
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9913bac202bf74fa907aba09259f1a
+      internalID: 1911323390569613400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b940268b13e4481d8f793b8861df30e
+      internalID: 4540165426955975181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_203
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 104
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0176d467ba15bb5b95c63b1403ec950
+      internalID: 3582341556736626851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_204
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a512d4fc7681228f713c8309275e6
+      internalID: 8048595773009655726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_205
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 104
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8a8111dd71b630d93b7a40b3d9f63d
+      internalID: -1012514975370007027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_206
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891c5e7064beb6c5d8089656edf404ac
+      internalID: 1539994057823981932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_207
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 104
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb083e2e842b0e195d2f9ce4d44010
+      internalID: -6781966746810601540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_208
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 104
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf297efea4515918f501ac0351d59e
+      internalID: -4293454601992014274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_209
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7482699e87ef16ab9c4fbee9603a4fe
+      internalID: 5839396737410358232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_210
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 65
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38016826ac8acfb3ab4e73f2dc050419
+      internalID: -2055185696051791539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e684013ce32147d1e9332fd85dcd7ae1
+      internalID: 7739445366104570280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_212
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b5bf5d78bde2edb90f9eff032efed
+      internalID: -4313008685380666043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b832b1c25285ab3ae897865a730d1aa8
+      internalID: 1911818770400161490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_214
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 64
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db35f7c29b95e00a71918ec724dbc6
+      internalID: -1827567431470952005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_215
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 67
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55d0ee847d83bd45b3333d6d823b1be
+      internalID: 3875333645475034710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8859d36ca1a0d2b89088864e9d55347
+      internalID: -838279711300599484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_217
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 67
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6618dd3616b6ae6b0b5e8e9d9d2e63
+      internalID: -4376011276573298762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_218
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df080e728f1515bb096f49dafbaf4b
+      internalID: -5071090334418288912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_219
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a855473530f0a3d87972b6da0c2ed0cc
+      internalID: -6361753971327520809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_220
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6242d3e747b3061b4bc94904f54273
+      internalID: 3060376341168425832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_221
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d1a2b23a409009fa11341e85c8884f
+      internalID: -4818000819361246848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_222
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ca03f815d84c75fa625fea5659fae1
+      internalID: -4417024592745603400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_223
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 64
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a25f41e9388276a811fe06f44a9820
+      internalID: -783508650622111326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_224
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9839fbfd9d48c9488eff4888f8b1bc
+      internalID: 7742927903685924884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_225
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 64
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c5e8e044b5125e8dc5d9233065ae3
+      internalID: -3380748706122145243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_226
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7954398f1795bd709bb53e08ea712559
+      internalID: -2000329995199226233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_227
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e674f87ff38924a2d9630e0b848aa05b
+      internalID: 5084305808535714754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_228
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd333839e9de860bb35b67b635e3c75
+      internalID: -93808698228833256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc8cb6fc624d868d89209b6c5b92332
+      internalID: -4957308621127900697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_230
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61daf13c1b688dd1abe8b7317e77e08
+      internalID: -1864909971673221218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_231
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a17760c1ff39f5a8ea29070b0582b
+      internalID: 6021223791676033889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_232
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0873b2854bc7c9e5288dda003263aea9
+      internalID: -3626799543555915087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_233
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c58c7b9ec338b623929bb849ceeb238
+      internalID: 6306743599647778353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_234
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1660cf5ab17cb148f3e7f8485dff35
+      internalID: -4233760519165053841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_235
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275fb3c936fc20fb8914af1c6dff40c6
+      internalID: 3874696519716361139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_236
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 32
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14707df2f0ca706869bc2e593fc635ed
+      internalID: -8660252471586460484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_237
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7759929498f25f2fab6fac174483bb43
+      internalID: -1879120889701618398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_238
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9819c3130497eea618b21bc4b834521a
+      internalID: -5340323179422806801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_239
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe30447e4d6d7d6388a358a91f91e32
+      internalID: -5980970133007336960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_240
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae3265bcae2b0dea75095e21506aac
+      internalID: -3733046174914182849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_241
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 386
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0176e938a112d34c4913573adbe31095
+      internalID: -3910995609797750238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2dbdf9ff5ae54d912be46b935bb66b5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
